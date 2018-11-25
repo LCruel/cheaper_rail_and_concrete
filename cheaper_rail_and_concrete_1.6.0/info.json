@@ -6,5 +6,5 @@
   "author": "LCruel",
   "homepage": "none",
   "description": "Multiplies the production of rails by 5 and concrete by 10.",
-  "dependencies": ["base >= 0.16.0"]
+  "factorio_version": "0.16"
 } 
